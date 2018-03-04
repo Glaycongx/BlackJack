@@ -1,0 +1,6 @@
+c:\users\lorena carla\documents\visual studio 2015\Projects\blackjack\bin\Debug\blackjack.exe.config
+c:\users\lorena carla\documents\visual studio 2015\Projects\blackjack\bin\Debug\blackjack.exe
+c:\users\lorena carla\documents\visual studio 2015\Projects\blackjack\bin\Debug\blackjack.pdb
+c:\users\lorena carla\documents\visual studio 2015\Projects\blackjack\obj\Debug\blackjack.csprojResolveAssemblyReference.cache
+c:\users\lorena carla\documents\visual studio 2015\Projects\blackjack\obj\Debug\blackjack.exe
+c:\users\lorena carla\documents\visual studio 2015\Projects\blackjack\obj\Debug\blackjack.pdb
